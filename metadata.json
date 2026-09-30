@@ -1,0 +1,6 @@
+{
+  "name": "PGIRS Casa a Casa",
+  "description": "Registro de capacitación casa a casa de PGIRS, seguimiento de asistencia, informes de cobertura por zonas y sincronización con Google Sheets con modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

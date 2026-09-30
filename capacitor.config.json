@@ -1,0 +1,8 @@
+{
+  "appId": "com.yolomborecicla.pgirs",
+  "appName": "Yolombó Recicla",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

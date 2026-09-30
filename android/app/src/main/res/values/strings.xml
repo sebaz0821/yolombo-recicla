@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Yolombó Recicla</string>
+    <string name="title_activity_main">Yolombó Recicla</string>
+    <string name="package_name">com.yolomborecicla.pgirs</string>
+    <string name="custom_url_scheme">com.yolomborecicla.pgirs</string>
+</resources>

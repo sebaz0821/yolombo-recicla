@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android & iOS build artifacts
+android/app/build/
+android/.gradle/
+android/local.properties
+*.apk
+*.ipa
+*.zip
+*.xcarchive
+ios/App/Pods/
+
